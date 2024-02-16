@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966899795371",
+    "project_id": "todoappktref",
+    "storage_bucket": "todoappktref.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966899795371:android:8f6587f3213a950bb27eee",
+        "android_client_info": {
+          "package_name": "com.harshaljain.todoappkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnZXB4SU7xD6trFxYwXivjBMfs1lfWPPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
